@@ -16,7 +16,7 @@
 
 - contact jess green about mentorship
 - contact people for meetings
-	- dan and mirta
+    - dan and mirta
 - format to-do
 
 # edward to do-do
