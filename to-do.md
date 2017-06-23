@@ -24,6 +24,11 @@
 - contact jess green about mentorship
 - contact people for meetings
     - dan and mirta
+- email miguel
+- look into eric smith stuff
+    - write up notes from meeting
+    - look into his recent books
+    - look into path entropy
 - format to-do
     - make bash script that:
         1. commits changes to git
