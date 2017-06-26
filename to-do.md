@@ -11,7 +11,7 @@
 # sadScaling
 
 - figure out if sample transform is answer
-- test singletons method for evaluating fisher
+- write-up three different ways of scaling
 
 
 # happySAD
@@ -21,6 +21,7 @@
 
 # logistic
 
+- post doc conference talk
 - contact jess green about mentorship
 - contact people for meetings
     - dan and mirta
@@ -38,3 +39,7 @@
 # edward
 - write up example functions
 - fri meeting
+
+# reading
+- look at sid's presentation
+- look at john's grant
