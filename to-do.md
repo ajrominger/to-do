@@ -43,3 +43,10 @@
 # reading
 - look at sid's presentation
 - look at john's grant
+
+# personal
+- check on what we need for dmv
+- call ins
+- pack
+- move
+- watering
