@@ -12,7 +12,6 @@
 
 - decide on way to plot scaling
 - bring in z value results
-- get mean and CI for diff of fish and sampTrans log lik
 - write-up three different ways of scaling
 
 
