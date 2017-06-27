@@ -48,7 +48,7 @@
 
 # personal
 - check on what we need for dmv
-- call ins
+- figure out ins payment
 - pack
 - move
 - watering
