@@ -10,8 +10,8 @@
 
 # sadScaling
 
-- decide on way to plot scaling
-- bring in z value results
+- figure out if random subsets are also neg binom
+- figure out if weird spatial configurations match observed scaling results
 - write-up three different ways of scaling
 
 
@@ -47,7 +47,7 @@
 
 # personal
 - check on what we need for dmv
-- figure out ins payment
+- check back with ins
 - pack
 - move
 - watering
