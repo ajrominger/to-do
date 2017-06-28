@@ -12,7 +12,6 @@
 # sadScaling
 
 - figure out if random subsets are also neg binom
-- figure out if weird spatial configurations match observed scaling results
 - write-up three different ways of scaling
 
 
