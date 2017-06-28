@@ -6,6 +6,7 @@
 - fix axis function in *socorro* to:
     - take different tranform funs
     - not over-populate axis when limits are huge (e.g. 4 ords of mag)
+    - take a vector more than 1 long for the `side` argument (e.g. allowing simultaneous axis addition)
 
 
 # sadScaling
@@ -27,6 +28,7 @@
 - contact people for meetings
     - dan and mirta
 - email miguel
+- email tsalis
 - look into eric smith stuff
     - write up notes from meeting
     - look into his recent books
@@ -44,6 +46,7 @@
 # reading
 - look at sid's presentation
 - look at john's grant
+- read beck and cohen and tsalis
 
 # personal
 - check on what we need for dmv
