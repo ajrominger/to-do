@@ -11,13 +11,16 @@
 
 # sadScaling
 
-- figure out if random subsets are also neg binom
+- fix z-val in neg binom scaling
 - write-up three different ways of scaling
+- write jon
 
 
 # happySAD
 
 - figure out when z-val is informative (i.e. what sample size)
+- test z-val to make sure the analytical version is really right 
+    - see if *pika* logLikZ works when 'by hand' z from sadScaling does not
 
 
 # logistic
@@ -26,8 +29,6 @@
 - contact jess green about mentorship
 - contact people for meetings
     - dan and mirta
-- email miguel
-- email tsalis
 - look into eric smith stuff
     - write up notes from meeting
     - look into his recent books
@@ -39,13 +40,14 @@
         3. formats new list with accomplishments crossed off
 
 # edward
-- write up example functions
-- fri meeting
+- send data files
+- thrs meeting
 
 # reading
 - look at sid's presentation
 - look at john's grant
 - read beck and cohen and tsalis
+- read this: https://arxiv.org/pdf/1608.08995.pdf
 
 # personal
 - check on what we need for dmv
