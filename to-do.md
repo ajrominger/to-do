@@ -26,11 +26,12 @@
 # logistic
 
 - post doc conference talk
-- contact jess green about mentorship
+- post doc conference research jam
+- write hilary about eric smith outside mentor
 - contact people for meetings
     - dan and mirta
+    - jen
 - look into eric smith stuff
-    - write up notes from meeting
     - look into his recent books
     - look into path entropy
 - format to-do
@@ -38,9 +39,10 @@
         1. commits changes to git
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
+- get out of website contract
+- set up github website
 
 # edward
-- send data files
 - thrs meeting
 
 # reading
@@ -50,8 +52,4 @@
 - read this: https://arxiv.org/pdf/1608.08995.pdf
 
 # personal
-- check on what we need for dmv
-- check back with ins
-- pack
-- move
 - watering
