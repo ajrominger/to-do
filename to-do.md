@@ -11,17 +11,15 @@
 
 # sadScaling
 
-- fix z-val in neg binom scaling
-- write-up three different ways of scaling
-- write jon
-
-
 # happySAD
 
 - figure out when z-val is informative (i.e. what sample size)
 - test z-val to make sure the analytical version is really right 
     - see if *pika* logLikZ works when 'by hand' z from sadScaling does not
 
+# eco-evo meeting
+- make budget
+- write up proposal
 
 # logistic
 
@@ -30,7 +28,6 @@
 - write hilary about eric smith outside mentor
 - contact people for meetings
     - dan and mirta
-    - jen
 - look into eric smith stuff
     - look into his recent books
     - look into path entropy
@@ -40,7 +37,7 @@
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
 - get out of website contract
-- set up github website
+- set up github website: https://pages.github.com/
 
 # edward
 - thrs meeting
@@ -48,8 +45,10 @@
 # reading
 - look at sid's presentation
 - look at john's grant
-- read beck and cohen and tsalis
 - read this: https://arxiv.org/pdf/1608.08995.pdf
 
 # personal
-- watering
+- dresser
+- bed
+- unpacking
+- vacume
