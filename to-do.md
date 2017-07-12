@@ -23,11 +23,11 @@
 
 # logistic
 
-- post doc conference talk
-- post doc conference research jam
 - write hilary about eric smith outside mentor
 - contact people for meetings
-    - dan and mirta
+    - dan
+    - marion
+    - elly
 - look into eric smith stuff
     - look into his recent books
     - look into path entropy
@@ -36,11 +36,10 @@
         1. commits changes to git
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
-- get out of website contract
 - set up github website: https://pages.github.com/
 
 # edward
-- thrs meeting
+- fri meeting
 
 # reading
 - look at sid's presentation
@@ -48,7 +47,7 @@
 - read this: https://arxiv.org/pdf/1608.08995.pdf
 
 # personal
-- dresser
-- bed
+- leeland
+- whitie
 - unpacking
 - vacume
