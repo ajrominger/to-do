@@ -18,7 +18,6 @@
     - see if *pika* logLikZ works when 'by hand' z from sadScaling does not
 
 # eco-evo meeting
-- make budget
 - write up proposal
 
 # logistic
