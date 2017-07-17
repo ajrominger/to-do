@@ -39,15 +39,10 @@
 - set up github website: https://pages.github.com/
 
 # edward
-- fri meeting
+- thrs meeting
 
 # reading
 - look at sid's presentation
 - look at john's grant
 - read this: https://arxiv.org/pdf/1608.08995.pdf
-
-# personal
-- leeland
-- whitie
-- unpacking
-- vacume
+- review for mol ecol
