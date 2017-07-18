@@ -44,4 +44,3 @@
 - look at sid's presentation
 - look at john's grant
 - read this: https://arxiv.org/pdf/1608.08995.pdf
-- review for mol ecol
