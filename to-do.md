@@ -18,13 +18,18 @@
 - figure out when z-val is informative (i.e. what sample size)
 - test z-val to make sure the analytical version is really right 
     - see if *pika* logLikZ works when 'by hand' z from sadScaling does not
+- test out different metrics like ks and mse (again!)
+- figure out sample size to reject given SAD model when we don't know the true model (i.e. can't use deltaAIC of true model v. alternative model)
+
+
+# isingEcology
+- prep data
+- read up
 
 # eco-evo meeting
 - email proposal to jen
 
 # logistic
-
-- write hilary about eric smith outside mentor
 - format to-do
     - make bash script that:
         1. commits changes to git
@@ -32,11 +37,12 @@
         3. formats new list with accomplishments crossed off
 - set up github website: https://pages.github.com/
 
+
 # edward
+- go over haawe function
+
 
 # meetings
-- mirta
-- edward
 - neo
 
 # reading
