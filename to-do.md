@@ -11,8 +11,10 @@
 # sadScaling
 
 # paleo sstat
-- re-write with mean return process on variance and decide on framing (neutral? stat mech? other?)
-- decide what bd-type dirivation/simulation needs to be included
+- meet with pablo
+- email to miguel
+- upload to arxiv
+- submit to nat eco evo
 
 # happySAD
 - figure out when z-val is informative (i.e. what sample size)
@@ -27,7 +29,8 @@
 - read up
 
 # eco-evo meeting
-- email proposal to jen
+- email james and katie
+- new budget
 
 # logistic
 - format to-do
@@ -36,19 +39,20 @@
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
 - set up github website: https://pages.github.com/
-
+    - basic set up
+    - get ideas blog going
+    - get research page to show recent projects determined from github
+    - update cv to be both html (need css) and pdf
+- omidyar report
 
 # edward
 - go over haawe function
 
 
 # meetings
-- neo
 
 # reading
 - look at sid's presentation
 - look at john's grant
 - read this: https://arxiv.org/pdf/1608.08995.pdf
-- look into eric smith stuff
-    - look into his recent books
-    - look into path entropy
+- look into eric smith stuff: http://tuvalu.santafe.edu/~desmith/Publications.html
