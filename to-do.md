@@ -29,8 +29,6 @@
 - read up
 
 # eco-evo meeting
-- email james and katie
-- new budget
 
 # logistic
 - format to-do
