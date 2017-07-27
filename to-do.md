@@ -11,9 +11,9 @@
 # sadScaling
 
 # paleo sstat
-- meet with pablo
-- email to miguel
+- upload to sfi
 - upload to arxiv
+- shorten cover letter
 - submit to nat eco evo
 
 # happySAD
@@ -44,8 +44,6 @@
 - omidyar report
 
 # edward
-- go over haawe function
-
 
 # meetings
 
@@ -54,3 +52,4 @@
 - look at john's grant
 - read this: https://arxiv.org/pdf/1608.08995.pdf
 - look into eric smith stuff: http://tuvalu.santafe.edu/~desmith/Publications.html
+- look at pablo's book chapter
