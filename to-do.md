@@ -38,7 +38,6 @@
 - get ideas blog going
 - get research page to show recent projects determined from github
     - do the website code
-    - make the readme for all projects informative and clear enough for the website
 - update cv to be both html (need css?) and pdf
     - https://mszep.github.io/pandoc_resume/
     - http://elipapa.github.io/markdown-cv/
@@ -56,8 +55,10 @@
 - omidyar report
 
 # edward
+- thrs meeting
 
 # meetings
+- marion
 
 # reading
 - look at sid's presentation
