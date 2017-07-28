@@ -11,7 +11,7 @@
 # sadScaling
 
 # paleo sstat
-- upload to sfi
+- submit to sfi
 
 # happySAD
 - figure out when z-val is informative (i.e. what sample size)
@@ -37,7 +37,13 @@
     - basic set up
     - get ideas blog going
     - get research page to show recent projects determined from github
-    - update cv to be both html (need css) and pdf
+    - update cv to be both html (need css?) and pdf
+        - https://mszep.github.io/pandoc_resume/
+        - http://elipapa.github.io/markdown-cv/
+        - http://blm.io/blog/markdown-academic-cv/
+        - https://github.com/there4/markdown-resume
+        - http://svmiller.com/blog/2016/03/svm-r-markdown-cv/
+        - https://bitlyfied.com/2013/03/14/markdown-cv/
 - omidyar report
 
 # edward
