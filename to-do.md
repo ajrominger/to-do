@@ -11,7 +11,6 @@
 # sadScaling
 
 # paleo sstat
-- submit to sfi
 
 # happySAD
 - figure out when z-val is informative (i.e. what sample size)
@@ -27,23 +26,33 @@
 
 # eco-evo meeting
 
+# website 
+- basic set up
+    - https://pages.github.com/
+    - themes: http://jekyllthemes.org/
+    - https://help.github.com/categories/customizing-github-pages/
+    - https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+    - https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
+    - https://github.com/kbroman/simple_site
+    - https://www.thinkful.com/learn/a-guide-to-using-github-pages/
+- get ideas blog going
+- get research page to show recent projects determined from github
+    - do the website code
+    - make the readme for all projects informative and clear enough for the website
+- update cv to be both html (need css?) and pdf
+    - https://mszep.github.io/pandoc_resume/
+    - http://elipapa.github.io/markdown-cv/
+    - http://blm.io/blog/markdown-academic-cv/
+    - https://github.com/there4/markdown-resume
+    - http://svmiller.com/blog/2016/03/svm-r-markdown-cv/
+    - https://bitlyfied.com/2013/03/14/markdown-cv/
+
 # logistic
 - format to-do
     - make bash script that:
         1. commits changes to git
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
-- set up github website: https://pages.github.com/
-    - basic set up
-    - get ideas blog going
-    - get research page to show recent projects determined from github
-    - update cv to be both html (need css?) and pdf
-        - https://mszep.github.io/pandoc_resume/
-        - http://elipapa.github.io/markdown-cv/
-        - http://blm.io/blog/markdown-academic-cv/
-        - https://github.com/there4/markdown-resume
-        - http://svmiller.com/blog/2016/03/svm-r-markdown-cv/
-        - https://bitlyfied.com/2013/03/14/markdown-cv/
 - omidyar report
 
 # edward
