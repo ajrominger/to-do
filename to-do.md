@@ -12,9 +12,6 @@
 
 # paleo sstat
 - upload to sfi
-- upload to arxiv
-- shorten cover letter
-- submit to nat eco evo
 
 # happySAD
 - figure out when z-val is informative (i.e. what sample size)
