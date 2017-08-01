@@ -53,12 +53,15 @@
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
 - omidyar report
+- email Eric Smith back
 
 # edward
 - thrs meeting
+- email
 
 # meetings
 - marion
+- visitors
 
 # reading
 - look at sid's presentation
