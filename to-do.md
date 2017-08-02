@@ -52,15 +52,12 @@
         1. commits changes to git
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
-- omidyar report
-- dan email
 
 # edward
 - thrs meeting
 
 # meetings
 - marion
-- visitors
 
 # reading
 - look at sid's presentation
