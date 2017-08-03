@@ -131,6 +131,8 @@ $(document).ready(function () {
 <li>not over-populate axis when limits are huge (e.g. 4 ords of mag)</li>
 <li>take a vector more than 1 long for the <code>side</code> argument (e.g. allowing simultaneous axis addition)</li>
 </ul></li>
+<li>play around with eBird (and other cit sci) R packages</li>
+<li>play with colorspace</li>
 </ul>
 </div>
 <div id="sadscaling" class="section level1">
@@ -149,12 +151,25 @@ $(document).ready(function () {
 </ul></li>
 <li>test out different metrics like ks and mse (again!)</li>
 <li>figure out sample size to reject given SAD model when we don’t know the true model (i.e. can’t use deltaAIC of true model v. alternative model)</li>
+<li>make outline of concepts for the paper
+<ul>
+<li>different models of SADs have been explored so we won’t re-hash that, but we will categorize into lognorm and gamma</li>
+<li>lognormal vs. gamma have interesting dirivations that deserve more attention</li>
+<li>when can lognorm and gamma be differentiated?</li>
+<li>when and how to use the exact test</li>
+<li>best metrics for goodness of fit</li>
+<li>subsampling and on the veil-line
+<ul>
+<li>random sampling v. clustered sampling</li>
+<li>more on that soon…</li>
+</ul></li>
+</ul></li>
 </ul>
 </div>
 <div id="isingecology" class="section level1">
 <h1>isingEcology</h1>
 <ul>
-<li>prep data</li>
+<li>make scaling routine use distance indead of iterative neighbor finding</li>
 <li>read up</li>
 </ul>
 </div>

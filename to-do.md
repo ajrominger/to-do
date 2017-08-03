@@ -6,6 +6,8 @@
     - take different tranform funs
     - not over-populate axis when limits are huge (e.g. 4 ords of mag)
     - take a vector more than 1 long for the `side` argument (e.g. allowing simultaneous axis addition)
+- play around with eBird (and other cit sci) R packages
+- play with colorspace
 
 
 # sadScaling
@@ -18,10 +20,19 @@
     - see if *pika* logLikZ works when 'by hand' z from sadScaling does not
 - test out different metrics like ks and mse (again!)
 - figure out sample size to reject given SAD model when we don't know the true model (i.e. can't use deltaAIC of true model v. alternative model)
+- make outline of concepts for the paper
+    - different models of SADs have been explored so we won't re-hash that, but we will categorize into lognorm and gamma
+    - lognormal vs. gamma have interesting dirivations that deserve more attention
+    - when can lognorm and gamma be differentiated?
+    - when and how to use the exact test
+    - best metrics for goodness of fit
+    - subsampling and on the veil-line
+        - random sampling v. clustered sampling
+        - more on that soon...
 
 
 # isingEcology
-- prep data
+- make scaling routine use distance indead of iterative neighbor finding
 - read up
 
 # eco-evo meeting
@@ -53,14 +64,12 @@
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
 - omidyar report
-- dan email
 
 # edward
 - thrs meeting
 
 # meetings
 - marion
-- visitors
 
 # reading
 - look at sid's presentation
