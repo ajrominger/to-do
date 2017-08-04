@@ -13,6 +13,7 @@
 # sadScaling
 
 # paleo sstat
+- update supp
 
 # happySAD
 - figure out when z-val is informative (i.e. what sample size)
@@ -63,13 +64,10 @@
         1. commits changes to git
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
-- omidyar report
 
 # edward
-- thrs meeting
 
 # meetings
-- marion
 
 # reading
 - look at sid's presentation
