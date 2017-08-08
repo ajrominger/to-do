@@ -140,9 +140,6 @@ $(document).ready(function () {
 </div>
 <div id="paleo-sstat" class="section level1">
 <h1>paleo sstat</h1>
-<ul>
-<li>update supp</li>
-</ul>
 </div>
 <div id="happysad" class="section level1">
 <h1>happySAD</h1>
@@ -158,13 +155,29 @@ $(document).ready(function () {
 <ul>
 <li>different models of SADs have been explored so we won’t re-hash that, but we will categorize into lognorm and gamma</li>
 <li>lognormal vs. gamma have interesting dirivations that deserve more attention</li>
+<li>analyses
+<ul>
 <li>when can lognorm and gamma be differentiated?</li>
-<li>when and how to use the exact test</li>
-<li>best metrics for goodness of fit</li>
-<li>subsampling and on the veil-line
+<li>when and how to use the exact test
+<ul>
+<li>power and sample size in S and N</li>
+</ul></li>
+<li>best metrics for goodness of fit
+<ul>
+<li>compare across SAD shapes, N, S:
+<ul>
+<li>ks</li>
+<li>mse on cdf</li>
+<li>mse on rad (log and linear scale)</li>
+<li>logLikZ</li>
+<li>kl distance</li>
+</ul></li>
+</ul></li>
+<li>subsampling and the veil-line
 <ul>
 <li>random sampling v. clustered sampling</li>
 <li>more on that soon…</li>
+</ul></li>
 </ul></li>
 </ul></li>
 </ul>

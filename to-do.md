@@ -13,7 +13,6 @@
 # sadScaling
 
 # paleo sstat
-- update supp
 
 # happySAD
 - figure out when z-val is informative (i.e. what sample size)
@@ -24,12 +23,20 @@
 - make outline of concepts for the paper
     - different models of SADs have been explored so we won't re-hash that, but we will categorize into lognorm and gamma
     - lognormal vs. gamma have interesting dirivations that deserve more attention
-    - when can lognorm and gamma be differentiated?
-    - when and how to use the exact test
-    - best metrics for goodness of fit
-    - subsampling and on the veil-line
-        - random sampling v. clustered sampling
-        - more on that soon...
+    - analyses
+        - when can lognorm and gamma be differentiated?
+        - when and how to use the exact test
+            - power and sample size in S and N
+        - best metrics for goodness of fit
+            - compare across SAD shapes, N, S:
+                - ks
+                - mse on cdf
+                - mse on rad (log and linear scale)
+                - logLikZ
+                - kl distance
+        - subsampling and the veil-line
+            - random sampling v. clustered sampling
+            - more on that soon...
 
 
 # isingEcology
