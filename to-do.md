@@ -82,3 +82,4 @@
 - read this: https://arxiv.org/pdf/1608.08995.pdf
 - look into eric smith stuff: http://tuvalu.santafe.edu/~desmith/Publications.html
 - look at pablo's book chapter
+- large deviations: https://arxiv.org/pdf/0804.0327.pdf
