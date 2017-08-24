@@ -64,8 +64,13 @@
     - https://github.com/there4/markdown-resume
     - http://svmiller.com/blog/2016/03/svm-r-markdown-cv/
     - https://bitlyfied.com/2013/03/14/markdown-cv/
+- might be a good template: http://laurenthebertdufresne.github.io/
 
 # logistic
+- amos working group
+    - invite pablo
+    - revise
+    - email about eric
 - format to-do
     - make bash script that:
         1. commits changes to git
@@ -73,6 +78,7 @@
         3. formats new list with accomplishments crossed off
 
 # edward
+- example shape file
 
 # meetings
 
@@ -83,3 +89,5 @@
 - look into eric smith stuff: http://tuvalu.santafe.edu/~desmith/Publications.html
 - look at pablo's book chapter
 - large deviations: https://arxiv.org/pdf/0804.0327.pdf
+- mirta's grant
+
