@@ -40,10 +40,21 @@
 
 
 # isingEcology
-- make scaling routine use distance indead of iterative neighbor finding
+- make scaling routine use all matrix methods
 - read up
 
 # eco-evo meeting
+
+# mol2ecol
+- review comments
+- tighten up intro
+- better motivate proposed tests
+- plan a meeting
+- design a simulation
+
+# warbler
+- look at trait values in sympatry v. allopatry
+- write danny for more data
 
 # website 
 - basic set up
@@ -67,10 +78,8 @@
 - might be a good template: http://laurenthebertdufresne.github.io/
 
 # logistic
-- amos working group
-    - invite pablo
-    - revise
-    - email about eric
+- ecography review
+- email about isaac quals
 - format to-do
     - make bash script that:
         1. commits changes to git
