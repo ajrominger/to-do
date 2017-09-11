@@ -79,6 +79,7 @@
 
 # logistic
 - ecography review
+- nsf review
 - email about isaac quals
 - format to-do
     - make bash script that:
