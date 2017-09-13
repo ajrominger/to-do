@@ -78,7 +78,6 @@
 - might be a good template: http://laurenthebertdufresne.github.io/
 
 # logistic
-- ecography review
 - nsf review
 - format to-do
     - make bash script that:
