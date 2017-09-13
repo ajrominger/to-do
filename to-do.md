@@ -87,7 +87,6 @@
         3. formats new list with accomplishments crossed off
 
 # edward
-- example shape file
 
 # meetings
 
