@@ -57,15 +57,6 @@
 - write danny for more data
 
 # website 
-- basic set up
-    - https://pages.github.com/
-    - themes: http://jekyllthemes.org/
-    - https://help.github.com/categories/customizing-github-pages/
-    - https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
-    - https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/
-    - https://github.com/kbroman/simple_site
-    - https://www.thinkful.com/learn/a-guide-to-using-github-pages/
-- get ideas blog going
 - get research page to show recent projects determined from github
     - do the website code
 - update cv to be both html (need css?) and pdf
@@ -75,9 +66,10 @@
     - https://github.com/there4/markdown-resume
     - http://svmiller.com/blog/2016/03/svm-r-markdown-cv/
     - https://bitlyfied.com/2013/03/14/markdown-cv/
-- might be a good template: http://laurenthebertdufresne.github.io/
+- make publications list (ideally dynamically)
 
 # logistic
+- make meteR presentation
 - nsf review
 - format to-do
     - make bash script that:
