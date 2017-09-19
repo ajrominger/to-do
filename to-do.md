@@ -59,6 +59,8 @@
 # website 
 - get research page to show recent projects determined from github
     - do the website code
+- make notebook organizable by topic
+- put talks (i.e. the slides) in blog posts and link to the talks tag from research page
 - update cv to be both html (need css?) and pdf
     - https://mszep.github.io/pandoc_resume/
     - http://elipapa.github.io/markdown-cv/
