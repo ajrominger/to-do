@@ -71,8 +71,6 @@
 - make publications list (ideally dynamically)
 
 # logistic
-- make meteR presentation
-- nsf review
 - format to-do
     - make bash script that:
         1. commits changes to git
