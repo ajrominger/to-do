@@ -2,13 +2,9 @@
 - get random number functions faster in *pika*, means making q fun in C++
 - get *pika* working with *meteR*---to do so requires uploading pika to CRAN, then making meteR depend on it
 - make *meteR* spatial stuff use spatial packages
-- fix axis function in *socorro* to:
-    - take different tranform funs
-    - not over-populate axis when limits are huge (e.g. 4 ords of mag)
-    - take a vector more than 1 long for the `side` argument (e.g. allowing simultaneous axis addition)
+- fix axis function in *socorro* to take different tranform funs
 - play around with eBird (and other cit sci) R packages
 - play with colorspace
-
 
 # sadScaling
 
