@@ -45,8 +45,7 @@
 - review comments
 - tighten up intro
 - better motivate proposed tests
-- plan a meeting
-- design a simulation
+- follow up on simulations with isaac
 
 # warbler
 - look at trait values in sympatry v. allopatry
@@ -67,6 +66,9 @@
 - make publications list (ideally dynamically)
 
 # logistic
+- slice of science
+    - decide on content
+    - make slides
 - format to-do
     - make bash script that:
         1. commits changes to git
@@ -76,6 +78,7 @@
 # edward
 
 # meetings
+- will on friday
 
 # reading
 - look at sid's presentation
