@@ -9,6 +9,12 @@
 # sadScaling
 
 # paleo sstat
+- re-do 3TPub correction
+- re-run analysis
+- revise ms to include:
+    - better motivation and explaination of concept
+    - better methedology
+    - science advances formatting
 
 # happySAD
 - figure out when z-val is informative (i.e. what sample size)
@@ -40,6 +46,7 @@
 - read up
 
 # eco-evo meeting
+- set agenda
 
 # mol2ecol
 - review comments
@@ -67,8 +74,10 @@
 
 # logistic
 - slice of science
-    - decide on content
-    - make slides
+    - best practices for SADs
+    - ising and ecology
+    - maxent and maxheight as new take on equilib
+    - gender and race in pop culture and public speach
 - format to-do
     - make bash script that:
         1. commits changes to git
@@ -78,7 +87,7 @@
 # edward
 
 # meetings
-- will on friday
+- charles on thurs
 
 # reading
 - look at sid's presentation
