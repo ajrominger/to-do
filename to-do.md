@@ -73,11 +73,6 @@
 - make publications list (ideally dynamically)
 
 # logistic
-- slice of science
-    - best practices for SADs
-    - ising and ecology
-    - maxent and maxheight as new take on equilib
-    - gender and race in pop culture and public speach
 - format to-do
     - make bash script that:
         1. commits changes to git
@@ -87,7 +82,6 @@
 # edward
 
 # meetings
-- charles on thurs
 
 # reading
 - look at sid's presentation
