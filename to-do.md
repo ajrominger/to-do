@@ -45,9 +45,6 @@
 - make scaling routine use all matrix methods
 - read up
 
-# eco-evo meeting
-- set agenda
-
 # mol2ecol
 - review comments
 - tighten up intro
