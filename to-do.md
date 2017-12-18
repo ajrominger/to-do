@@ -65,6 +65,10 @@
 - better motivate proposed tests
 - follow up on simulations with isaac
 
+# range-diversification 
+- set up repo
+- compile data
+
 # warbler
 - look at trait values in sympatry v. allopatry
 - write danny for more data
