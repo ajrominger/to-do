@@ -1,3 +1,25 @@
+# paleo sstat
+- revise ms to include:
+    - better motivation and explaination of concept
+    - better methedology
+    - science advances formatting
+
+# dodoB
+- flesh out ideas
+- contact program officers
+- contact dob PI's'
+
+# edward
+- review reu application
+- write letter
+
+# mirta
+- set up meetings for new year
+- check in with laura
+
+# grasslands
+- contact shantini for permits
+
 # code
 - get random number functions faster in *pika*, means making q fun in C++
 - get *pika* working with *meteR*---to do so requires uploading pika to CRAN, then making meteR depend on it
@@ -7,14 +29,6 @@
 - play with colorspace
 
 # sadScaling
-
-# paleo sstat
-- re-do 3TPub correction
-- re-run analysis
-- revise ms to include:
-    - better motivation and explaination of concept
-    - better methedology
-    - science advances formatting
 
 # happySAD
 - figure out when z-val is informative (i.e. what sample size)
@@ -75,8 +89,6 @@
         1. commits changes to git
         2. figures out updates using diff
         3. formats new list with accomplishments crossed off
-
-# edward
 
 # meetings
 
