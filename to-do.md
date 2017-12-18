@@ -10,12 +10,8 @@
 - contact dob PI's'
 
 # edward
-- review reu application
-- write letter
 
 # mirta
-- set up meetings for new year
-- check in with laura
 
 # grasslands
 - contact shantini for permits
