@@ -14,7 +14,6 @@
 # mirta
 
 # grasslands
-- contact shantini for permits
 
 # code
 - get random number functions faster in *pika*, means making q fun in C++
