@@ -2,12 +2,11 @@
 - revise ms to include:
     - better motivation and explaination of concept
     - better methedology
-    - science advances formatting
 
 # dodoB
 - flesh out ideas
 - contact program officers
-- contact dob PI's'
+- contact dob PI's
 
 # edward
 
@@ -98,4 +97,3 @@
 - look into eric smith stuff: http://tuvalu.santafe.edu/~desmith/Publications.html
 - look at pablo's book chapter
 - large deviations: https://arxiv.org/pdf/0804.0327.pdf
-
