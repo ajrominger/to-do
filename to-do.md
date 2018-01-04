@@ -3,6 +3,8 @@
     - better explanation of conserved rate variation
     - maybe remove islands, or make less literal
 - look over supplement
+- get cross references working
+- make supp have S1, S2, etc indexing
 
 # dodoB
 - flesh out ideas
