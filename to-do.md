@@ -1,7 +1,8 @@
 # paleo sstat
 - revise ms to include:
-    - better motivation and explaination of concept
-    - better methedology
+    - better explanation of conserved rate variation
+    - maybe remove islands, or make less literal
+- look over supplement
 
 # dodoB
 - flesh out ideas
