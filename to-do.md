@@ -1,11 +1,7 @@
 # paleo sstat
-- revise ms to include:
-    - better explanation of conserved rate variation
-    - maybe remove islands, or make less literal
-    - revised abstract
 - look over supplement
-- get cross references working
 - make supp have S1, S2, etc indexing
+- final read over
 
 # dodoB
 - flesh out ideas
