@@ -1,7 +1,6 @@
 # paleo sstat
-- look over supplement
-- make supp have S1, S2, etc indexing
-- final read over
+- upload to arxiv
+- upload to sci adv
 
 # dodoB
 - flesh out ideas
