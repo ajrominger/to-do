@@ -7,9 +7,16 @@
 - contact program officers
 - contact dob PI's
 
+# continuousity
+- compile lit
+- make annotated bib
+- interpret gimmeSAD results
+- work on Gillespie implementation of forward time model
+
 # edward
 
 # mirta
+- look at api's
 
 # grasslands
 
