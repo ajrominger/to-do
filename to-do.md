@@ -1,6 +1,4 @@
 # paleo sstat
-- upload to arxiv
-- upload to sci adv
 
 # dodoB
 - flesh out ideas
@@ -8,8 +6,6 @@
 - contact dob PI's
 
 # continuousity
-- compile lit
-- make annotated bib
 - interpret gimmeSAD results
 - work on Gillespie implementation of forward time model
 
