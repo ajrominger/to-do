@@ -1,20 +1,54 @@
 # paleo sstat
 
 # dodoB
-- flesh out ideas
-- contact program officers
-- contact dob PI's
+- look at solicitation
+- flesh out outline
+- make plots
+- COI
+- current and pending
+- results from prior funding
+- biosketches
 
 # continuousity
-- interpret gimmeSAD results
 - work on Gillespie implementation of forward time model
+- work on Kendall implementation
+- meeting with Idaho
 
 # edward
-
+- corrections
+    - duplications
+    - site name
+	- spelling
+	- everything standard
+- shiny upload
+- kokua
+	- download
+		- what about missing CRS?
+		- adding support for file types
+		- write actual unit tests
+	- standard plotting
+	
 # mirta
 - look at api's
 
 # grasslands
+- permit
+
+# mol2ecol
+- review comments
+- tighten up intro
+- better motivate proposed tests
+- interpret gimmeSAD results
+    - code to plot
+    - interpretation
+
+# range-diversification 
+- set up repo
+- compile data
+
+# warbler
+- look at trait values in sympatry v. allopatry
+- write danny for more data
 
 # code
 - get random number functions faster in *pika*, means making q fun in C++
@@ -54,20 +88,6 @@
 # isingEcology
 - make scaling routine use all matrix methods
 - read up
-
-# mol2ecol
-- review comments
-- tighten up intro
-- better motivate proposed tests
-- follow up on simulations with isaac
-
-# range-diversification 
-- set up repo
-- compile data
-
-# warbler
-- look at trait values in sympatry v. allopatry
-- write danny for more data
 
 # website 
 - get research page to show recent projects determined from github
