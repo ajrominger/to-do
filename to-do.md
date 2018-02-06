@@ -104,10 +104,6 @@
 - make publications list (ideally dynamically)
 
 # logistic
-- emails:
-    - henrik
-    - ashley
-    - maria
 - format to-do
     - make bash script that:
         1. commits changes to git
