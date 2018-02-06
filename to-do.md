@@ -12,7 +12,6 @@
 # continuousity
 - work on Gillespie implementation of forward time model
 - work on Kendall implementation
-- meeting with Idaho
 
 # edward
 - corrections
