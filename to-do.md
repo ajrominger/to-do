@@ -1,13 +1,21 @@
 # paleo sstat
 
 # dodoB
-- look at solicitation
-- flesh out outline
-- make plots
-- COI
-- current and pending
-- results from prior funding
-- biosketches
+- facilities
+- post doc mentoring
+- tell to stop editing
+- ToL in intro
+- shorten intro
+- better model figure
+- make tables
+- general read over
+- latex conversion
+- references
+- project summary
+- dmp
+- student plan
+- list of reviewers
+- budget
 
 # continuousity
 - work on Gillespie implementation of forward time model
