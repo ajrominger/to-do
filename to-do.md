@@ -1,9 +1,6 @@
 # paleo sstat
 
 # dodoB
-- facilities
-- post doc mentoring
-- tell to stop editing
 - ToL in intro
 - shorten intro
 - better model figure
@@ -15,7 +12,6 @@
 - dmp
 - student plan
 - list of reviewers
-- budget
 
 # continuousity
 - work on Gillespie implementation of forward time model
