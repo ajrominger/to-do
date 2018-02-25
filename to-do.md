@@ -4,13 +4,13 @@
 - ToL in intro
 - shorten intro
 - better model figure
-- make tables
 - general read over
 - latex conversion
 - references
 - project summary
 - dmp
-- student plan
+- get good citation style
+- post doc plan
 - list of reviewers
 
 # continuousity
