@@ -1,16 +1,11 @@
 # paleo sstat
 
 # dodoB
-- ToL in intro
-- shorten intro
 - better model figure
+- ana comments
 - general read over
-- latex conversion
-- references
 - project summary
 - dmp
-- get good citation style
-- post doc plan
 - list of reviewers
 
 # continuousity
