@@ -2,11 +2,10 @@
 
 # dodoB
 - better model figure
-- ana comments
 - general read over
-- project summary
-- dmp
-- list of reviewers
+- project summary final
+- dmp final
+- facilities - lori
 
 # continuousity
 - work on Gillespie implementation of forward time model
