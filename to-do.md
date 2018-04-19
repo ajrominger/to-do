@@ -1,35 +1,19 @@
 # paleo sstat
+- respond to reviewers
 
 # dodoB
-- better model figure
-- general read over
-- project summary final
-- dmp final
-- facilities - lori
 
 # continuousity
-- work on Gillespie implementation of forward time model
-- work on Kendall implementation
+- read james' write-up
+- write luis about phylogenies
 
 # edward
-- corrections
-    - duplications
-    - site name
-	- spelling
-	- everything standard
-- shiny upload
-- kokua
-	- download
-		- what about missing CRS?
-		- adding support for file types
-		- write actual unit tests
-	- standard plotting
-	
+
 # mirta
 - look at api's
+- NSF 1000 words
 
 # grasslands
-- permit
 
 # mol2ecol
 - review comments
