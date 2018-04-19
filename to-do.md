@@ -1,19 +1,22 @@
 # paleo sstat
 - respond to reviewers
 
-# dodoB
-
 # continuousity
 - read james' write-up
 - write luis about phylogenies
 
-# edward
+# range-diversification 
+- get in touch with katie and UofA folks
+- set up repo
+- compile data
 
 # mirta
 - look at api's
 - NSF 1000 words
 
 # grasslands
+- buy supplies
+
 
 # mol2ecol
 - review comments
@@ -23,9 +26,7 @@
     - code to plot
     - interpretation
 
-# range-diversification 
-- set up repo
-- compile data
+
 
 # warbler
 - look at trait values in sympatry v. allopatry
@@ -92,6 +93,10 @@
         3. formats new list with accomplishments crossed off
 
 # meetings
+
+# dodoB
+
+# edward
 
 # reading
 - look at sid's presentation
