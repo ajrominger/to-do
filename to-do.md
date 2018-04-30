@@ -1,3 +1,10 @@
+# today
+- biol invasion review
+- ecography review
+- call doctor
+- USFS permits
+- order field supplies
+
 # paleo sstat
 - respond to reviewers
 
