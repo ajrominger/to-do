@@ -1,7 +1,4 @@
 # today
-- biol invasion review
-- ecography review
-- call doctor
 - USFS permits
 - order field supplies
 
@@ -9,8 +6,6 @@
 - respond to reviewers
 
 # continuousity
-- read james' write-up
-- write luis about phylogenies
 
 # range-diversification 
 - get in touch with katie and UofA folks
