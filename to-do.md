@@ -10,6 +10,11 @@
     - see what code works as expected with the old download
 - respond to reviewers
 
+# maxent max height
+- get N0,S0 solution function working
+- least squares on log space
+- ML fit
+
 # continuousity
 
 # range-diversification 
@@ -19,7 +24,6 @@
 
 # mirta
 - look at api's
-- NSF 1000 words
 
 # grasslands
 - buy supplies
