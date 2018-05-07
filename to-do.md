@@ -6,8 +6,8 @@
 
 # paleo sstat
 - try again with fresh download
-    - see what major things changed between the two downloads
     - see what code works as expected with the old download
+    - tweak that code to work with new data
 - respond to reviewers
 
 # maxent max height
