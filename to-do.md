@@ -1,8 +1,13 @@
 # today
-- USFS permits
+- book postdoc retreat
+- call allergy
+- sstat stuff
 - order field supplies
 
 # paleo sstat
+- try again with fresh download
+    - see what major things changed between the two downloads
+    - see what code works as expected with the old download
 - respond to reviewers
 
 # continuousity
