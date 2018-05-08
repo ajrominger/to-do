@@ -1,5 +1,4 @@
 # today
-- book postdoc retreat
 - call allergy
 - sstat stuff
 - order field supplies
