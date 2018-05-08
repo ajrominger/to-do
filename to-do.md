@@ -14,6 +14,10 @@
 - least squares on log space
 - ML fit
 
+# meteR
+- fix RAD for Psi
+
+
 # continuousity
 
 # range-diversification 
