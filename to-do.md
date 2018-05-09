@@ -1,11 +1,9 @@
 # today
-- call allergy
 - sstat stuff
 - order field supplies
 
 # paleo sstat
 - try again with fresh download
-    - see what code works as expected with the old download
     - tweak that code to work with new data
 - respond to reviewers
 
